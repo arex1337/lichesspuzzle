@@ -11,10 +11,10 @@
 ## Usage
 In these examples, I'll assume you've named your bot `puzzlebot`.
 
-@puzzlebot **set time** *HH:MM* - Sets the time for when the bot will post the daily puzzle (24-hour format, UTC)
-@puzzlebot **get time** - Returns the time for when the bot will post the daily puzzle (24-hour format, UTC)
-@puzzlebot **set stream** *stream_name* - Sets the stream name the bot will post to (do not include a leading #)
-@puzzlebot **get stream** - Returns the stream name the bot will post to
-@puzzlebot **set topic** *topic_name* - Set the topic name the bot will post to
-@puzzlebot **get topic** - Returns the topic name the bot will post to
-@puzzlebot **puzzle** - The bot will reply to your message with the daily puzzle
+- @puzzlebot **set time** *HH:MM* - Sets the time for when the bot will post the daily puzzle (24-hour format, UTC)
+- @puzzlebot **get time** - Returns the time for when the bot will post the daily puzzle (24-hour format, UTC)
+- @puzzlebot **set stream** *stream_name* - Sets the stream name the bot will post to (do not include a leading #)
+- @puzzlebot **get stream** - Returns the stream name the bot will post to
+- @puzzlebot **set topic** *topic_name* - Set the topic name the bot will post to
+- @puzzlebot **get topic** - Returns the topic name the bot will post to
+- @puzzlebot **puzzle** - The bot will reply to your message with the daily puzzle
