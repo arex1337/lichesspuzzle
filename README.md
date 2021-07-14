@@ -2,7 +2,7 @@
 
 ## About
 
-The purpose of this Zulip bot is to post the daily chess puzzle from lichess.org in a specfic topic in a specific stream at a specific time of day. [Read more about Lichess here.](https://lichess.org/about)
+The purpose of this Zulip bot is to automatically post the daily chess puzzle from lichess.org in a specfic topic in a specific stream at a specific time of day every day. [Read more about Lichess here.](https://lichess.org/about)
 
 
 ## Setup
