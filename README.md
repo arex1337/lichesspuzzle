@@ -1,5 +1,10 @@
 # Lichess Daily Puzzle bot for Zulip
 
+## About
+
+The purpose of this Zulip bot is to post the daily chess puzzle from lichess.org in a specfic topic in a specific stream at a specific time of day. [Read more about Lichess here.](https://lichess.org/about)
+
+
 ## Setup
 
 1) In your Zulip client, go to Settings -> Your bots, and add a new Generic bot
@@ -9,6 +14,7 @@
 5) Start the bot with: `zulip-run-bot lichesspuzzle --config-file zuliprc`
 
 ## Usage
+
 In these examples, I'll assume you've named your bot `puzzlebot`.
 
 - @puzzlebot **set time** *HH:MM* - Sets the time for when the bot will post the daily puzzle (24-hour format, UTC)
