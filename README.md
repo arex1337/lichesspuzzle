@@ -13,6 +13,8 @@ The purpose of this Zulip bot is to automatically post the daily chess puzzle fr
 4) Place the contents of this folder into `/python-zulip-api/zulip_bots/zulip_bots/bots/lichesspuzzle/`
 5) Start the bot with: `zulip-run-bot lichesspuzzle --config-file zuliprc`
 
+(If you're having any problems with step 5, make sure lichesspuzzle is your working directory. If it still doesn't work, try `zulip-run-bot lichesspuzzle.py --config-file zuliprc`)
+
 ## Usage
 
 In these examples, I'll assume you've named your bot `puzzlebot`.
